@@ -18,6 +18,8 @@ To-do:
 
 [icons](https://simpleicons.org/)
 
+[shields](https://shields.io/)
+
 [emojis](https://emojipedia.org/emoji/), [emoji file formats](https://www.fileformat.info/info/emoji/list.htm)
 
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
