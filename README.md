@@ -21,6 +21,7 @@ To-do:
 
 - [icons](https://simpleicons.org/)
 - [shields](https://shields.io/)
+- [dev icons](https://github.com/devicons/devicon)
 
 - [emojis](https://emojipedia.org/emoji/)
 - [emoji file formats](https://www.fileformat.info/info/emoji/list.htm)
