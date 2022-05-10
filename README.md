@@ -24,4 +24,4 @@ To-do:
 
 - [github readme stats](https://github.com/anuraghazra/github-readme-stats)
 
-![alt text : hello world](https://www.photos-public-domain.com/wp-content/uploads/2018/05/hello-world-768x512.jpg)
+![alt text : hello world](https://lo2y.com/wp-content/uploads/2016/02/hello-world.png)
