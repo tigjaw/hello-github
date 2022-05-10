@@ -17,8 +17,8 @@ To-do:
 `system.out.println("Hello World");`
 [hello-world repository](https://github.com/tigjaw/hello-world)
 
-[basic markdown syntax cheat-sheet](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
+(https://www.markdownguide.org/cheat-sheet/#basic-syntax)
 
-[extended markdown syntax cheat-sheet](https://www.markdownguide.org/cheat-sheet/#extended-syntax)
+[icons](https://simpleicons.org/)
 
 ![alt text : hello world](https://www.photos-public-domain.com/wp-content/uploads/2018/05/hello-world-768x512.jpg)
