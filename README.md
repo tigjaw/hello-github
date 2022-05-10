@@ -20,4 +20,6 @@ To-do:
 
 [emojis](https://emojipedia.org/emoji/), [emoji file formats](https://www.fileformat.info/info/emoji/list.htm)
 
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
 ![alt text : hello world](https://www.photos-public-domain.com/wp-content/uploads/2018/05/hello-world-768x512.jpg)
