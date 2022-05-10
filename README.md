@@ -14,11 +14,10 @@ To-do:
 - Merge pull request
 
 ---
-`system.out.println("Hello World");`
-[hello-world repository](https://github.com/tigjaw/hello-world)
-
-(https://www.markdownguide.org/cheat-sheet/#basic-syntax)
+[markdown syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
 
 [icons](https://simpleicons.org/)
+
+[emojis](https://emojipedia.org/emoji/), [emoji file formats](https://www.fileformat.info/info/emoji/list.htm)
 
 ![alt text : hello world](https://www.photos-public-domain.com/wp-content/uploads/2018/05/hello-world-768x512.jpg)
