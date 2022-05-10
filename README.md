@@ -14,14 +14,14 @@ To-do:
 - Merge pull request
 
 ---
-[markdown syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
+- [markdown syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
 
-[icons](https://simpleicons.org/)
+- [icons](https://simpleicons.org/)
+- [shields](https://shields.io/)
 
-[shields](https://shields.io/)
+- [emojis](https://emojipedia.org/emoji/)
+- [emoji file formats](https://www.fileformat.info/info/emoji/list.htm)
 
-[emojis](https://emojipedia.org/emoji/), [emoji file formats](https://www.fileformat.info/info/emoji/list.htm)
-
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [github readme stats](https://github.com/anuraghazra/github-readme-stats)
 
 ![alt text : hello world](https://www.photos-public-domain.com/wp-content/uploads/2018/05/hello-world-768x512.jpg)
