@@ -17,15 +17,20 @@ To-do:
 
 
 ---
+GitHub Markdown
 - [markdown syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
 
+Badges
 - [icons](https://simpleicons.org/)
 - [shields](https://shields.io/)
 - [dev icons](https://github.com/devicons/devicon)
+- [ileriayo markdown badges](https://github.com/Ileriayo/markdown-badges)
 
+Emojis
 - [emojis](https://emojipedia.org/emoji/)
 - [emoji file formats](https://www.fileformat.info/info/emoji/list.htm)
 
+Other
 - [github readme stats](https://github.com/anuraghazra/github-readme-stats)
 
 ![alt text : hello world](https://lo2y.com/wp-content/uploads/2016/02/hello-world.png)
