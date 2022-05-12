@@ -1,22 +1,26 @@
-# hello-world
-## hello-world / readme.md
-### hellow-world / readme.md / in readme-edits (branch)
+# GitHub Resources
 
+<div align="center">
+<img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png" alt="hello world!"/>
+</div>
 
-**Quickstart Guide** - *Hello World*
-> Creating a Repository, creating a branch, saving and committing changes
-1. Created hello-world repository
-2. Generated a new branch titled "readme-edits"
-3. Edited this readme.md of "readme-edits" branch
+## Using GitHub
 
+**Quickstart Guide**
+1. [github docs](https://docs.github.com/en/get-started)
+2. [quickstart](https://docs.github.com/en/get-started/quickstart)
+3. [hello-world](https://docs.github.com/en/get-started/quickstart/hello-world)
 
-To-do:
-- Commit changes
-- Open a pull request
-- Merge pull request
+**Resources:**
+- [onboarding](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
+- [keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
+- [learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
 
 ---
+
+## GitHub Profile Building
+
 GitHub Markdown
 - [markdown syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
 
@@ -32,5 +36,3 @@ Emojis
 
 Other
 - [github readme stats](https://github.com/anuraghazra/github-readme-stats)
-
-![alt text : hello world](https://lo2y.com/wp-content/uploads/2016/02/hello-world.png)
