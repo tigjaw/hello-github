@@ -4,6 +4,8 @@
 <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png" alt="hello world!"/>
 </div>
 
+---
+
 ## Using GitHub
 
 **Quickstart Guide**
