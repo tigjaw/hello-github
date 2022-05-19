@@ -38,4 +38,4 @@ Emojis
 
 Other
 - [github readme stats](https://github.com/anuraghazra/github-readme-stats)
-- [readme.md-gallery-creator](https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/)
+- [readme.md gallery creator](https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/)
